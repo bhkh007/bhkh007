@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot Applications**
 
-- 💬 Ask me about **java,spring**
+- 💬 Ask me about **java,spring,dsa**
 
 - 📫 How to reach me **khandarbhavesh007@gmail.com**
 
